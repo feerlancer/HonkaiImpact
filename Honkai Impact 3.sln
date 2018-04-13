@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honkai Impact 3", "Honkai Impact 3.csproj", "{FAFB1D24-A4E6-C3E4-D05C-DC29DEE6F6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honkai Impact 3.Editor", "Honkai Impact 3.Editor.csproj", "{7D562298-3316-74A2-6672-FA8D70BCC2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFB1D24-A4E6-C3E4-D05C-DC29DEE6F6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFB1D24-A4E6-C3E4-D05C-DC29DEE6F6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFB1D24-A4E6-C3E4-D05C-DC29DEE6F6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFB1D24-A4E6-C3E4-D05C-DC29DEE6F6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D562298-3316-74A2-6672-FA8D70BCC2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D562298-3316-74A2-6672-FA8D70BCC2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D562298-3316-74A2-6672-FA8D70BCC2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D562298-3316-74A2-6672-FA8D70BCC2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
